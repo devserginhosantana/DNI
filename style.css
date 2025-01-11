@@ -120,6 +120,7 @@ body {
 /* Cabeçalho */
 header {
     height: 60px;
+    margin-bottom: 10px;
 }
 
 #logo img {
@@ -348,6 +349,11 @@ footer a {
 
 /* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 576px) {
+    /* Cabeçalho */
+    header {
+        margin-bottom: 20px;
+    }
+
     /* Layout */
     .Container {
         max-width: 540px;
@@ -455,6 +461,7 @@ footer a {
     /* Destaque */
     main {
         height: 60vh;
+        margin-top: 30px;
     }
 
     main h1 {
@@ -524,7 +531,7 @@ footer a {
         display: inline;
     }
 
-    .Flex5 span{
+    .Flex5 span {
         text-align: center;
     }
 }
