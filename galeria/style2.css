@@ -62,5 +62,9 @@ footer {
 }
 
 footer span p{
+    font-size: 1em;
+}
+footer span p{
     padding: 10px 0px;
+    font-size: 0.8em;
 }
