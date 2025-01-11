@@ -460,6 +460,10 @@ footer a {
         font-size: 6.8em;
     }
 
+    main h2{
+        margin-bottom: 80px;
+    }
+
     /* Sobre */
     #sobre {
         background-attachment: fixed;
