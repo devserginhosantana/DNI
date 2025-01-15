@@ -184,7 +184,7 @@ nav ul li a {
 /* Destaque */
 main {
     height: 51vh;
-    background: url(img/banner2.webp);
+    background: url(../src/img/banner2.webp);
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -209,7 +209,7 @@ main h2 {
 /* Sobre */
 #sobre {
     padding: 50px 0px;
-    background: url(img/BG1.webp);
+    background: url(../src/img/BG1.webp);
     background-size: cover;
     background-position: center;
 }
@@ -260,7 +260,7 @@ main h2 {
 /* Wireframe */
 #wireframe {
     padding: 50px 0px;
-    background: url(img/BG2.webp);
+    background: url(../src/img/BG2.webp);
     background-size: cover;
     background-position: center;
 }
@@ -312,7 +312,7 @@ main h2 {
 /* Rodapé */
 address {
     padding: 35px 10px 50px 10px;
-    background: url(img/BG1.webp);
+    background: url(../src/img/BG1.webp);
     background-size: cover;
     background-position: center;
     color: #fff;
