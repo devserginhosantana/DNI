@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", serif;
+  font-size: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: #14424b;
+  margin: 20px;
+}
